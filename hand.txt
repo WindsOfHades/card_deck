@@ -1,0 +1,1 @@
+Ace-Spades,King-Spades,Queen-Spades,Jack-Spades,10-Spades
